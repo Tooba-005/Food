@@ -1,0 +1,260 @@
+.container{
+    width: 1340px;
+}
+.main-wrapper{
+    background-color: lightgoldenrodyellow;
+}
+.nav-wrapper{
+    display: flex;
+    justify-content: space-around;
+}
+.nav-wrapper ul{
+    display: flex;
+    list-style-type: none;
+}
+.nav-wrapper li a{
+    text-decoration: none;
+    padding: 30px 15px;
+    color:black;
+}
+.nav-bar{
+    display: flex;
+    width: 100%;
+    background-color:#FF5800;
+    justify-content: space-evenly;
+}
+.nav-bar ul{
+    display: flex;
+    list-style-type: none;
+}
+.nav-bar li a{
+    text-decoration: none;
+    color: white;
+}
+.n1{
+    padding: 10px;
+}
+.n2{
+    padding: 10px;
+
+}
+.search{
+    padding-right: 300px;
+    background-color: #ff6715;
+    border-color:white;
+    block-size: 30px;
+    border-radius: 5px;
+    border-style: solid;
+}
+.slider{
+    width: 100%;
+    display: flex;
+}
+.img{
+    position: relative;
+    padding-top: 3px;
+}
+.text{
+    color:white;
+    position: absolute;
+    width: 500px;
+    height: 100px;
+    padding-top: 40px;
+    padding-left: 380px;
+    font-size: xx-large;
+}
+.text h2{
+    color: black;
+}
+.text a{
+    text-decoration: none;
+    color: white;
+}
+.btn{
+    border-radius: 20px;
+    background-color:#ff6715;
+    font-size: medium;
+    border: 0px;
+    size: 50px;
+    block-size: 30px;
+}
+.card-wrapper{
+    display: flex;
+    width: 100%;
+}
+.img1{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 60px;
+    padding-right: 0px;
+    position: relative;
+}
+.text1{
+    color: white;
+    position: absolute;
+    padding-top: 40px;
+    padding-left: 200px;
+}
+.text1 a{
+    color: white;
+    text-decoration: none;
+    font-size: medium;
+}
+.img2{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 0px;
+    position: relative;
+}
+.text2{
+    color: black;
+    position: absolute;
+    padding-top: 40px;
+    padding-left: 870px;
+}
+.text2 a{
+    color: black;
+    text-decoration: none;
+    font-size: medium;
+}
+.txt{
+    font-size: large;
+    padding-bottom: 10px;
+    padding-top: 1px;
+}
+.txt a{
+    text-decoration: none;
+    color: black;
+}
+.txt h3{
+    font-size: x-large;
+}
+.card-wrapper1{
+    display: flex;
+    width: 100%;
+}
+.card{
+    padding-left: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 22%;
+}
+.card-wrapper1{
+    display: flex;
+    width: 100%;
+}
+.imag1{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 0px;
+    position: relative;
+}
+.tx1{
+    color:white;
+    position: absolute;
+    padding-top: 50px;
+    padding-left: 150px;
+}
+.tx1 a{
+    color: white;
+    text-decoration: none;
+    font-size: medium;
+}
+.imag2{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 0px;
+    position: relative;
+}
+.tx2{
+    color: white;
+    position: absolute;
+    padding-top: 50px;
+    padding-left: 900px;
+}
+.tx2 a{
+    color: white;
+    text-decoration: none;
+    font-size: medium;
+}
+.card-wrapper2{
+    display: flex;
+    width: 100%;
+}
+.image2{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 0px;
+    position: relative;
+}
+.txt2{
+    color: black;
+    position: absolute;
+    padding-top: 50px;
+    padding-left: 70px;
+}
+.txt2 a{
+    color: black;
+    text-decoration: none;
+    font-size: medium;
+}
+.image1{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 0px;
+    position: relative;
+}
+.txt1{
+    color:black;
+    position: absolute;
+    padding-top: 50px;
+    padding-left: 550px;
+}
+.txt1 a{
+    color: black;
+    text-decoration: none;
+    font-size: medium;
+}
+.table{
+    padding-left: 10px;
+    border-color:white;
+}
+.table1{
+    padding-left: 10px;
+    border-color:white;
+}
+.main-link{
+    width: 100%;
+    display: flex;
+    padding-top: 30px;
+    justify-content: space-around;
+}
+.footer{
+    background-color: #FF5800;
+    display: flex;
+    padding-top:10px ;
+    padding-bottom: 10px;
+    padding-left:130px ;
+    padding-right:130px ;
+}
+.t1{
+    padding-right: 100px;
+}
+.t2{
+    padding-right: 100px;
+}
+.t3{
+    padding-right: 100px;
+}
+.t4{
+    padding-left: 0px;
+}
+.footer1{
+    background-color: black;
+    color: white;
+}
